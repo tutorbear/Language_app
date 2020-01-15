@@ -1,0 +1,12 @@
+<resources>
+
+    <string name="app_name">Multiple language Support fgdfg </string>
+
+
+
+    <string name="welcome">Welcome</string>
+    <string name="email">Email</string>
+    <string name="password">Password </string>
+    <string name="login">Do not have account? Signup</string>
+    <string name="changeLang">Change Language</string>
+</resources>

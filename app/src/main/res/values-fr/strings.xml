@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">Multiple language Support fr</string>
+
+    <string name="changeLang">fr</string>
+    <string name="email">fr</string>
+    <string name="login">fr</string>
+    <string name="password">fr</string>
+    <string name="welcome">fr</string>
+</resources>

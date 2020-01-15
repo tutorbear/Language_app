@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="app_name">Multiple language Support bn</string>
+
+
+
+    <string name="welcome">Welcome bn</string>
+    <string name="email">Email  bn</string>
+    <string name="password">Password bn</string>
+    <string name="login">Do not have account? Signup  bn</string>
+    <string name="changeLang">Chnage Language  bn</string>
+
+
+
+</resources>
